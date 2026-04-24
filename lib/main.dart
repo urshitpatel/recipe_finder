@@ -136,7 +136,7 @@ class StudentInfoScreen extends StatelessWidget {
                 buildInfoRow("Branch", "B-Tech (ICT)"),
                 buildInfoRow("Sem", "6th"),
                 buildInfoRow("Subject", "ADF"),
-                buildInfoRow("Subject Code", "BETIT163330"),
+                buildInfoRow("Subject Code", "BETCE16330"),
                 const SizedBox(height: 20),
                 ElevatedButton(
                   style: ElevatedButton.styleFrom(
