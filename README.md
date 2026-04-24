@@ -70,7 +70,7 @@ recipe_finder_app/
 <img width="1917" height="1077" alt="Screenshot 2026-04-16 093507" src="https://github.com/user-attachments/assets/ba85409e-87c5-424b-8a77-4414e201edf4" />
 <img width="1919" height="1079" alt="Screenshot 2026-04-16 093453" src="https://github.com/user-attachments/assets/b660b598-ec14-46a9-9379-5ce70ca06801" />
 <img width="1919" height="1079" alt="Screenshot 2026-04-16 093443" src="https://github.com/user-attachments/assets/d5f5ed57-9b81-4273-a0ef-8360e9f8371a" />
-<img width="1919" height="1079" alt="Screenshot 2026-04-16 093429" src="https://github.com/user-attachments/assets/c1cc7970-3fed-487b-bda7-e89c83508532" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1cc51a7d-896d-460d-a772-222b185d9463" />
 
 
 ---
